@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 30 Jun 2021 17:44:24 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bill Cosby's sex assault conviction overturned]]></title>
+            <description><![CDATA[The decision by Pennsylvania's Supreme Court paves the way for the former comedian's release.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57671012</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57671012</guid>
+            <pubDate>Wed, 30 Jun 2021 17:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: NHS plans booster jab for those 50 and over before winter]]></title>
+            <description><![CDATA[The UK's vaccine committee says winter could see spikes in flu and Covid, putting pressure on the NHS.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57667987</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57667987</guid>
+            <pubDate>Wed, 30 Jun 2021 17:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Europe-based England fans offered Ukraine tickets]]></title>
+            <description><![CDATA[Fans in England are being told not to travel to the game in Italy because of strict quarantine rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57670139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57670139</guid>
+            <pubDate>Wed, 30 Jun 2021 17:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tour de France spectator arrested over sign crash]]></title>
+            <description><![CDATA[The woman's sign brought down dozens of cyclists during the first stage of the race on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57668657</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57668657</guid>
+            <pubDate>Wed, 30 Jun 2021 14:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Tickets for England fans in Italy, and booster jab for over-50s]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57666520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57666520</guid>
+            <pubDate>Wed, 30 Jun 2021 17:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miami building collapse: Four more bodies found in rubble]]></title>
+            <description><![CDATA[The death toll rises to 16 as rescuers combing the debris battle worsening weather conditions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57671592</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57671592</guid>
+            <pubDate>Wed, 30 Jun 2021 17:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada weather: Dozens dead as heatwave shatters records]]></title>
+            <description><![CDATA[The country has recorded its highest ever temperature - 49.6C (121.3F) - for the third day in a row.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57654133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57654133</guid>
+            <pubDate>Wed, 30 Jun 2021 15:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Williamson wants to stop sending school bubbles home ]]></title>
+            <description><![CDATA[With more pupils sent home from school in England, there are calls for a different approach to Covid cases.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57664192</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57664192</guid>
+            <pubDate>Wed, 30 Jun 2021 16:08:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Methodist Church allows same-sex marriage in 'momentous' vote]]></title>
+            <description><![CDATA[Church officials hope the first same-sex weddings in Methodist chapels will take place in the autumn.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57658161</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57658161</guid>
+            <pubDate>Wed, 30 Jun 2021 14:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Organization expected to be charged over tax]]></title>
+            <description><![CDATA[The firm and its chief financial officer are set to be charged with tax-related crimes, reports say.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57669976</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57669976</guid>
+            <pubDate>Wed, 30 Jun 2021 17:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ollie Bibby: Mother feels dismissed by Boris Johnson over dead son]]></title>
+            <description><![CDATA[Penny Bibby says Boris Johnson must look at changing rules so families can be together in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-57666701</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57666701</guid>
+            <pubDate>Wed, 30 Jun 2021 15:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steven Bouquet: Man guilty of Brighton cat killings]]></title>
+            <description><![CDATA[Steven Bouquet is convicted after nine cats were killed and seven more injured in Brighton.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-57670855</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57670855</guid>
+            <pubDate>Wed, 30 Jun 2021 15:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nick Grimshaw to leave Radio 1 after 14 years]]></title>
+            <description><![CDATA[The drivetime host says working on the station has been a "childhood dream come true".]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57670955</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57670955</guid>
+            <pubDate>Wed, 30 Jun 2021 16:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal photographer: 'Diana broke the mould']]></title>
+            <description><![CDATA[The Duke of Cambridge and the Duke of Sussex are set to unveil a statue in memory of Diana, Princess of Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57668926</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57668926</guid>
+            <pubDate>Wed, 30 Jun 2021 17:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autistic teen struggles with changes during pandemic]]></title>
+            <description><![CDATA[Leah, 18, went into crisis during the pandemic after struggling with the changes to her life.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57519394</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57519394</guid>
+            <pubDate>Tue, 29 Jun 2021 23:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raye's pain as Polydor holds release of debut album]]></title>
+            <description><![CDATA[The 23-year-old Call on Me singer says she's done "everything" the record label's asked her for.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57663925</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57663925</guid>
+            <pubDate>Wed, 30 Jun 2021 16:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recovered Picasso painting slips on to the floor]]></title>
+            <description><![CDATA[The Picasso artwork Head of a Woman was being shown off during a news conference when this happened.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57665536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57665536</guid>
+            <pubDate>Wed, 30 Jun 2021 10:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Yankees' 70-year-old bat girl]]></title>
+            <description><![CDATA[Decades after she was told girls couldn't do the job, she got a chance to live her childhood dream.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57660503</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57660503</guid>
+            <pubDate>Tue, 29 Jun 2021 23:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon launches 'child-friendly' smart speaker in UK]]></title>
+            <description><![CDATA[But privacy campaigners are warning parents the devices will also be collecting data on their youngsters.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57665133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57665133</guid>
+            <pubDate>Wed, 30 Jun 2021 16:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Huge crowds seek vaccine as Indonesia cases soar]]></title>
+            <description><![CDATA[Thousands of people surround an Indonesian vaccine centre as the country faces a severe outbreak.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57665092</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57665092</guid>
+            <pubDate>Wed, 30 Jun 2021 12:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benjamin Zephaniah calls for more diversity in GCSE texts]]></title>
+            <description><![CDATA[Less than one percent of authors studied at GCSE English Literature are from an ethnic minority background.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57656231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57656231</guid>
+            <pubDate>Tue, 29 Jun 2021 18:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long Covid: Teenager was so ill she thought she might die]]></title>
+            <description><![CDATA[Liliana Jackson, who's 16 years old, suffered from skin rashes, nerve pain, chest cramps and severe fatigue and at one point thought she might die, but felt let down by doctors.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57653791</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57653791</guid>
+            <pubDate>Tue, 29 Jun 2021 23:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thomas Gainsborough's Blue Boy to return to the UK after 100 years]]></title>
+            <description><![CDATA[One of British art's most famous paintings is to go on show in London 100 years after it left.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57649531</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57649531</guid>
+            <pubDate>Tue, 29 Jun 2021 23:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Astronomy Photographer of the Year 2021: Shortlist revealed]]></title>
+            <description><![CDATA[The competition has received more than 4,500 entries from people in 75 countries.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57653901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57653901</guid>
+            <pubDate>Tue, 29 Jun 2021 23:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the Northern Ireland Protocol?]]></title>
+            <description><![CDATA[The EU is to formally agree to postpone trade changes part of the Northern Ireland Protocol, but what is it?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57519393</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57519393</guid>
+            <pubDate>Tue, 29 Jun 2021 23:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diana statue: What next for William and Harry's relationship?]]></title>
+            <description><![CDATA[Sources say communications have been minimal - with deep upset and mistrust on both sides.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57669199</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57669199</guid>
+            <pubDate>Wed, 30 Jun 2021 16:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Widow: Scarlett Johansson's 'rousing' Marvel film impresses most critics]]></title>
+            <description><![CDATA[But some reviewers take issue with how the Marvel superhero film handles the exploitation of women.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57663436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57663436</guid>
+            <pubDate>Wed, 30 Jun 2021 10:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong: How life has changed under China's national security law]]></title>
+            <description><![CDATA[Seven city residents tell the BBC how the national security law fundamentally changed their lives.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57649442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57649442</guid>
+            <pubDate>Wed, 30 Jun 2021 00:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Roger Federer says grass is 'slippery under roof' after Mannarino & Williams injuries]]></title>
+            <description><![CDATA[After Serena Williams and Adrian Mannarino injure themselves on Centre Court, BBC Sport looks at why grass courts are slippery and what impact it can have.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57658435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57658435</guid>
+            <pubDate>Tue, 29 Jun 2021 21:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What's the Northern Ireland Protocol?]]></title>
+            <description><![CDATA[Why are there now some border checks between Great Britain and Northern Ireland?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53724381</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53724381</guid>
+            <pubDate>Wed, 30 Jun 2021 16:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Batley and Spen by-election: What's at stake for the main political parties?]]></title>
+            <description><![CDATA[The constituency will be electing a new MP on Thursday, but the parties contesting the seat have a lot riding on the result.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57639970</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57639970</guid>
+            <pubDate>Wed, 30 Jun 2021 00:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everton appoint ex-Liverpool boss Benitez as Ancelotti's successor]]></title>
+            <description><![CDATA[Everton appoint former Liverpool manager Rafael Benitez as Carlo Ancelotti's successor.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57660542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57660542</guid>
+            <pubDate>Wed, 30 Jun 2021 15:26:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defending champion Pogacar crushes field in time trial to go second behind Van der Poel]]></title>
+            <description><![CDATA[Defending champion Tadej Pogacar claims a dominant time trial victory on stage five as Mathieu van der Poel narrowly retains the yellow jersey.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57671105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57671105</guid>
+            <pubDate>Wed, 30 Jun 2021 16:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nearly 2,000 Scotland Covid cases linked to people watching Euro 2020]]></title>
+            <description><![CDATA[Most of the 1,991 cases were people who travelled to London for Scotland's game with England on 18 June.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57667163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57667163</guid>
+            <pubDate>Wed, 30 Jun 2021 16:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Not bad for a part-time player' - Kyrgios wins epic match 9-7 in fifth set]]></title>
+            <description><![CDATA[Matteo Berrettini's fine form continues and Nick Kyrgios comes through a thrilling five sets to reach round two at Wimbledon.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57669026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57669026</guid>
+            <pubDate>Wed, 30 Jun 2021 16:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Nick Kyrgios says Wimbledon grass courts are "a joke"]]></title>
+            <description><![CDATA[Australia's Nick Kyrgios uses a change of ends during his first round match with Ugo Humbert to tell viewers the Wimbledon grass courts are "a joke" and playing too slow.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57666235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57666235</guid>
+            <pubDate>Wed, 30 Jun 2021 10:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
+            <description><![CDATA[Covid rules are making things a bit different for Euro 2020 spectators.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57386719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57386719</guid>
+            <pubDate>Wed, 30 Jun 2021 13:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What England's win means for fans]]></title>
+            <description><![CDATA[The victory over Germany at Wembley filled England fans with emotion – for a variety of reasons.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57665535</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57665535</guid>
+            <pubDate>Wed, 30 Jun 2021 10:24:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German press mourn 'bitter' end to Euros campaign]]></title>
+            <description><![CDATA[German newspapers see defeat to England as the end of an era for the national team.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57666389</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57666389</guid>
+            <pubDate>Wed, 30 Jun 2021 11:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: England 2-0 Germany - Relive Raheem Sterling & Harry Kane's goals at Wembley]]></title>
+            <description><![CDATA[Relive the best action and reactions after England's iconic Euro 2020 win over Germany.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57660524</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57660524</guid>
+            <pubDate>Wed, 30 Jun 2021 05:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England 2-0 Germany: Who stands between Three Lions and Euro 2020 final?]]></title>
+            <description><![CDATA[England are now favourites to reach the final of the Euros. Here's who they could face along the way.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57638163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57638163</guid>
+            <pubDate>Tue, 29 Jun 2021 21:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: England fans celebrate after win against Germany]]></title>
+            <description><![CDATA[Some 40,000 fans inside Wembley stadium cheered as England beat Germany 2-0 in their last-16 clash.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57657990</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57657990</guid>
+            <pubDate>Wed, 30 Jun 2021 07:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: 'The stuff of dreams' - BBC pundits celebrate wildly as England score against Germany]]></title>
+            <description><![CDATA[The pundits launch into a frenzy after England score against Germany, with Rio Ferdinand claiming that the 2-0 England victory is "the stuff of dreams".]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57659702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57659702</guid>
+            <pubDate>Tue, 29 Jun 2021 19:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020 quarter-final fixtures, TV guide & route to the final]]></title>
+            <description><![CDATA[All you need to know from Euro 2020, who faces who in the quarter-finals, plus when and where to watch the games.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57516261</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57516261</guid>
+            <pubDate>Tue, 29 Jun 2021 19:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020 England v Germany: How Three Lions became the definitive England song]]></title>
+            <description><![CDATA[Ever-hopeful England fans have been screaming that "football's coming home" for 25 years.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-44711564</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-44711564</guid>
+            <pubDate>Tue, 29 Jun 2021 14:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How you rated England's players in win over Germany]]></title>
+            <description><![CDATA[England beat Germany in a historic last-16 Euro 2020 tie at Wembley - here is how you rated the players.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51198971</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198971</guid>
+            <pubDate>Tue, 29 Jun 2021 18:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: England beat Germany - Gareth Southgate’s redemption on 'another day to remember']]></title>
+            <description><![CDATA[England's 2-0 Euro 2020 win over Germany is "redemption" for manager Gareth Southgate, 25 years on from his penalty miss at Euro 96.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57658629</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57658629</guid>
+            <pubDate>Wed, 30 Jun 2021 11:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Who has to self-isolate and for how long?]]></title>
+            <description><![CDATA[Growing numbers of entire classes in England are having to self-isolate because of a single positive case.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54239922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
+            <pubDate>Tue, 29 Jun 2021 11:19:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stamp duty holiday: How is it changing?]]></title>
+            <description><![CDATA[Stamp duty rules are changing in England and Northern Ireland from 1 July.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53319433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53319433</guid>
+            <pubDate>Tue, 29 Jun 2021 14:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
+            <description><![CDATA[The government is considering allowing double vaccinated adults to avoid quarantine after travel.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Wed, 30 Jun 2021 06:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When can we stop wearing face masks or coverings?]]></title>
+            <description><![CDATA[Wearing a face covering is currently a legal requirement in many places, but rules are under review.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Tue, 29 Jun 2021 10:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases are in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Wed, 30 Jun 2021 16:19:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Jews' fear and defiance amid record monthly anti-Semitism reports]]></title>
+            <description><![CDATA[Some 460 anti-Semitic incidents were reported to the Community Security Trust from 8 May to 7 June.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57339266</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57339266</guid>
+            <pubDate>Tue, 29 Jun 2021 07:58:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid quarantine hotels: Women say they were sexually harassed by guards]]></title>
+            <description><![CDATA[One woman tells the BBC a security guard employed by G4S mimed sex while they were alone in a lift.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57609164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57609164</guid>
+            <pubDate>Sat, 26 Jun 2021 03:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A fake wedding, and a $250,000 scam]]></title>
+            <description><![CDATA[How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57358241</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57358241</guid>
+            <pubDate>Mon, 21 Jun 2021 23:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gary Allen: The killer who nearly got away with murder]]></title>
+            <description><![CDATA[Gary Allen's conviction for the murders of two women brings a 20-year quest for justice to an end.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57331321</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57331321</guid>
+            <pubDate>Thu, 17 Jun 2021 10:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Lazarus heist: How North Korea almost pulled off a billion-dollar hack]]></title>
+            <description><![CDATA[In 2016 North Korean hackers planned a $1bn raid on Bangladesh's national bank and came within an inch of success. But how did they do it?]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57520169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57520169</guid>
+            <pubDate>Sun, 20 Jun 2021 23:45:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
